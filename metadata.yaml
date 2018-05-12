@@ -1,4 +1,5 @@
 _repo: The-Alhambra_49872
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Pennell, Joseph
@@ -8,6 +9,9 @@ contributor:
     gutenberg_agent_id: '33068'
     url: http://www.gutenberg.org/2009/agents/33068
     wikipedia: http://en.wikipedia.org/wiki/Joseph_Pennell
+covers:
+- cover_type: archival
+  image_path: 49872-h/images/i_cover.jpg
 creator:
   author:
     agent_name: Irving, Washington
@@ -18,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34
     wikipedia: http://en.wikipedia.org/wiki/Washington_Irving
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49872#The-Alhambra
 gutenberg_issued: '2015-09-04'
 gutenberg_type: Text
 identifiers:
